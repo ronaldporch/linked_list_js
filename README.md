@@ -27,6 +27,6 @@ And with Nodes in your Linked List, you can ".search()" for them and ".remove()"
 ```javascript
 myLinkedList.search("Eleanor Rigby"); // Eleanor Rigby Found at Node 3
 myLinkedList.search("Alice in Chains"); // Alice in Chains not Found
-myLinkedList.delete("Eleanor Rigby"); // Removed Eleanor Rigby from Node 3
-myLinkedList.delete("The guy who used to play drums for the Beatles"); The guy who used to play drums for the Beatles was not deleted: Node not found.
+myLinkedList.remove("Eleanor Rigby"); // Removed Eleanor Rigby from Node 3
+myLinkedList.remove("The guy who used to play drums for the Beatles"); The guy who used to play drums for the Beatles was not deleted: Node not found.
 ```
